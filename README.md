@@ -6,6 +6,7 @@ The dataset used in this project consists of 10,000 tweets extracted from Twitte
 
 # Dataset Overview
 Total Tweets: 10,000
+
 Columns: Tweet ID, Tweet Text, Sentiment Label.
 
 # Analysis Highlights
